@@ -1,27 +1,27 @@
-#container {
+.bg-login{
+
+  width: 100%;
+  height: 100%;
+  background-image: url('../../assets/icon/link.png');
+  background-size: cover;
+  background-position: center;      
+  }
+.curl{
+  color: aqua;
+  margin-top: 0px;
   text-align: center;
-
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  padding-top: 190px;
 }
+h5{
+  font-size: 38px;
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
 }
-
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
+.ctalogin{
+  padding: 10px;
+  background: #bfbbba;
+  margin:81px; 
+  text-align: center;
+  border-radius: 90px;
+  color:#702C91;
+  
 }
